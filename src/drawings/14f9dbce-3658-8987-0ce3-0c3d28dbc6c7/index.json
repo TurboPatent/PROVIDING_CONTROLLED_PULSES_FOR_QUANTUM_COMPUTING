@@ -1,0 +1,4988 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 711.9999999999972,
+          "y": 35.00000000000108
+        },
+        "size": {
+          "width": 163,
+          "height": 337
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "dashed",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "7d9ec626-4b89-4b17-a345-cea1ce80ec6f",
+        "z": 0,
+        "labelLayout": {
+          "labelBoxWidth": 148.75283813476562,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 74.37641906738281,
+              "y": 142.63190874023437
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "788a1f57-6118-f999-269c-77b8cbd407ba",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 687,
+          "y": 37
+        },
+        "size": {
+          "width": 72,
+          "height": 103
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "06c87415-4a5d-4c06-93f1-4c5033c0b707",
+        "z": 1,
+        "labelLayout": {
+          "labelBoxWidth": 65.70677947998047,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 32.853389739990234,
+              "y": 36.30291398925782
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "b293157a-c89c-d866-0f35-660b300eb0f6",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>&nbsp;</p><p>exemplary two-dimensional array of qubits</p><p>&nbsp;</p>",
+        "position": {
+          "x": 183,
+          "y": 21
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "74721ad8-138c-45a9-a5da-073af6062995",
+        "z": 1,
+        "objectID": "d340a5b5-6cf9-9576-285d-78262e9f0016",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 133.99999999999852,
+          "y": 98.00000000000296
+        },
+        "size": {
+          "width": 626,
+          "height": 441
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "fc043115-9461-4219-bebb-192a3eb051e0",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 571.283935546875,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 285.6419677734375,
+              "y": 189.88924821777343
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0475dc40-304f-6605-b35d-74ff1fd790db",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 623,
+          "y": 548
+        },
+        "size": {
+          "width": 82.6530612244898,
+          "height": 81
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"6c543551-5573-6897-85aa-e1c9c104de1b\" id=\"ideabab93c-1034-0304-5a4b-2f5f9e6088d4\" data-type=\"term\">RF source</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "83a2b81a-0706-411f-bfa9-c4f0034ca8c9",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 66.56034088134766,
+          "fullString": "RF SOURCE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "RF",
+              "width": 14.569000244140625,
+              "x": 25.995670318603516,
+              "y": -1.1063645568847633
+            },
+            {
+              "text": "SOURCE",
+              "width": 49.237579345703125,
+              "x": 8.661380767822266,
+              "y": 19.893672943115234
+            }
+          ],
+          "textWidth": 49.237579345703125,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "2cb20649-000b-cd51-a988-40c8a1b7a3f2",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "genericSensor",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 576,
+          "y": 523
+        },
+        "size": {
+          "width": 21,
+          "height": 52
+        },
+        "angle": 90,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "bottom",
+        "numberPosition": "position1",
+        "arrowheads": "neither",
+        "id": "96d0630a-43f3-4325-b065-be1e200b83a6",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 156.5948486328125,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 78.29742431640625,
+              "y": 0
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "74602899-998d-e77d-33e8-4368d2b5131c",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 445,
+          "y": 0
+        },
+        "size": {
+          "width": 82.6530612244898,
+          "height": 81
+        },
+        "angle": 180,
+        "label": "<p><span data-role=\"tag\" data-value=\"6c543551-5573-6897-85aa-e1c9c104de1b\" id=\"ideabab93c-1034-0304-5a4b-2f5f9e6088d4\" data-type=\"term\">RF source</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "886712f3-e85c-8ba7-21c6-471de1eed425",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 66.56034088134766,
+          "fullString": "RF SOURCE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "RF",
+              "width": 14.569000244140625,
+              "x": 25.995670318603516,
+              "y": -1.1063626495361305
+            },
+            {
+              "text": "SOURCE",
+              "width": 49.237579345703125,
+              "x": 8.661380767822266,
+              "y": 19.893674850463867
+            }
+          ],
+          "textWidth": 49.237579345703125,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "2cb20649-000b-cd51-a988-40c8a1b7a3f2",
+        "number": 2
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "83a2b81a-0706-411f-bfa9-c4f0034ca8c9"
+        },
+        "target": {
+          "x": 607,
+          "y": 558
+        },
+        "id": "7b889da8-186a-49b2-a4d3-046e3aa1fb67",
+        "embeds": "",
+        "z": 5,
+        "routing": "straight",
+        "objectID": "8a2eb456-5a32-7a42-4774-db89a7255618",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "genericSensor",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 562,
+          "y": 60
+        },
+        "size": {
+          "width": 21,
+          "height": 52
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "9207f13e-d1df-0f0f-c8ba-45137f9b4465",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 156.5948486328125,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 78.29742431640625,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ef94dadc-b9e8-503a-5533-b75181ff4aba",
+        "number": null
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "886712f3-e85c-8ba7-21c6-471de1eed425"
+        },
+        "target": {
+          "x": 544,
+          "y": 79
+        },
+        "id": "973622f9-1eb4-11fa-9fb8-87dfbed5c550",
+        "embeds": "",
+        "z": 6,
+        "routing": "straight",
+        "objectID": "1154f283-ed5a-8c1c-7363-06fc89f5b159",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<span data-role=\"tag\" data-value=\"cf582042-b5a9-c881-7c46-a7df7d987dcc\" id=\"idc863ceb0-3f70-0f9c-56bd-8e6502f45c56\" data-type=\"term\">inductive coupling device a</span>",
+        "position": {
+          "x": 592,
+          "y": 28
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "top",
+        "leadLinePosition": "position4",
+        "arrowheads": "target",
+        "id": "addc0d9a-6020-40b3-a978-b5f290140f4c",
+        "z": 7,
+        "objectID": "e751400d-c709-89ca-54f7-74d5c8c19032",
+        "number": 4
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "none",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "addc0d9a-6020-40b3-a978-b5f290140f4c"
+        },
+        "target": {
+          "id": "9207f13e-d1df-0f0f-c8ba-45137f9b4465"
+        },
+        "id": "27224bd1-8e5b-408b-9d49-745cd1aab58c",
+        "embeds": "",
+        "z": 8,
+        "routing": "straight",
+        "objectID": "110ab9e5-5166-51d2-b735-3169729643dc",
+        "labelPosition": "top",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"4ba85985-e725-61fb-38e9-368cb03555b9\" id=\"idfae6cb68-83a3-0d03-1a07-4f327fc94db7\" data-type=\"term\">inductive coupling device b</span></p>",
+        "position": {
+          "x": 545,
+          "y": 592
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "top",
+        "leadLinePosition": "position4",
+        "arrowheads": "neither",
+        "id": "d97dc746-4f86-4150-a93e-9326e4d69015",
+        "z": 9,
+        "objectID": "2d3f046f-83b6-cc2f-f9ac-022465cd35f8",
+        "number": 6
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "none",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "d97dc746-4f86-4150-a93e-9326e4d69015"
+        },
+        "target": {
+          "id": "96d0630a-43f3-4325-b065-be1e200b83a6"
+        },
+        "id": "925275f8-efdc-4f29-8e1a-71546789beb8",
+        "embeds": "",
+        "z": 10,
+        "routing": "straight",
+        "objectID": "d78dae3d-4be8-904c-c793-d5227f3b2bf8",
+        "labelPosition": "top",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 231,
+          "y": 117.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "4b27d2b8-e810-61e9-525b-b1af6110b2fd",
+        "z": 17,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "7d3a1e2c-7837-4927-0de6-73ada50001a4",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"a36e2ce3-d4cc-e8d0-784c-aa2ec21509e7\" id=\"id15e12d50-d3a1-d65c-96d4-b7b913f272e5\" data-type=\"term\">qubits 3 </span></p>",
+        "position": {
+          "x": 289,
+          "y": 108
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>3</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "94525199-10e1-4a9b-ae0f-42f86b7f2baf",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "3",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "3",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "a926ab94-c5ae-2285-82b2-a0a62b6ab6a8",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 231,
+          "y": 189
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "6fb92b09-6d2c-acd3-5fbc-e8e7eea87100",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "68809d95-e68f-f4c0-6e0c-e836f27143bf",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 231,
+          "y": 269.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "f6ccac5d-42e5-8cb3-8d69-9bef4f7bf7fd",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "887b46e4-ef86-2782-90a3-8643bb09bdd4",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 231,
+          "y": 425.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "2fba6274-940b-0bdb-6a0b-0bc49debef91",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2beeaff2-a926-7809-db3d-a89ee15e51a1",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 427,
+          "y": 116.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "a8e2f591-302a-d3a1-6297-fecc2560aa40",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "580e34df-0371-88ae-f3b3-fcf5f9107396",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 627,
+          "y": 117.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "d91dafcc-93f3-bfa6-97b0-d271a51ffb12",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "56583f87-8e71-ace8-ece9-d6cc5b750140",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 332,
+          "y": 117.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "5f11e68e-76cb-29c1-9cb4-884d2dcbff96",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "39387ff7-f097-3634-2bf2-ea796cfbbaf2",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 530,
+          "y": 117.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "0dc4c174-cec6-33fe-2a62-8030834187cc",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "a590919c-b71e-e588-504e-ee028805c8e1",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"83bc4c9f-13d6-65f9-2bc0-d489ce50e751\" id=\"id23320f9f-c2bf-f3ff-e3b8-5ccbf03d8167\" data-type=\"term\">qubits 4</span></p>",
+        "position": {
+          "x": 289,
+          "y": 184
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>4</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "c03a3a24-d907-1f7f-41e5-d24b4f970cd2",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "4",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "4",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "620faed1-79d2-badc-61be-09bc31a98445",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>qubits 5</p>",
+        "position": {
+          "x": 289,
+          "y": 260
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>5</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "545036b2-a9c7-5b5d-664b-7459a274f011",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "5",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "5",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "5b8ed3c5-549f-dca1-e820-e967914b7292",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 231,
+          "y": 351
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "aa1435e5-cd32-11d7-e3e8-5c72c4e7c47f",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0ec4e3ee-eea7-9709-69f8-e99f5e4d031c",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<span data-role=\"tag\" data-value=\"207ea978-83a6-176f-8e1a-68e05cf294b6\" id=\"idef632bed-3837-10ae-1e44-6b35d0d808cb\" data-type=\"term\">qubits 2</span>",
+        "position": {
+          "x": 289,
+          "y": 416
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>2</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "70a66fcd-3287-d0e0-eb9a-108ca21a3e6c",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "2",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "672006a2-641a-12bc-9429-c94dac2ecb84",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 231,
+          "y": 504
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "31b73aef-1b54-425f-e115-60e62d6364ee",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d782b725-cd7b-0a72-fe80-7ae4b21460e8",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"f3a0cac9-3117-103d-6d11-6a8c4d0e372e\" id=\"id0beeaa63-70f9-a8fc-aa89-72e37ef5f27d\" data-type=\"term\">qubits 5</span></p>",
+        "position": {
+          "x": 492,
+          "y": 107
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>5</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "c7182042-cd79-c703-613f-4b81a4293a6e",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "5",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "5",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "3c8dad60-45d0-c23c-4c94-00d543b5ad32",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 427,
+          "y": 188
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "7a8f9f67-7a07-7215-70eb-ec4b46732574",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "b4f9a4a0-0bad-4d81-0673-d22035180826",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 427,
+          "y": 268.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "1caff5b5-31e9-316e-929e-3a401e5f36f6",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9c07752e-5e11-453c-2f0f-f3dada5149c2",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 427,
+          "y": 424.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "f7b5750b-33d9-9ae1-54b0-c4a734a20783",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "939c1860-990e-6979-aad5-ad52be2c777f",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<span data-role=\"tag\" data-value=\"207ea978-83a6-176f-8e1a-68e05cf294b6\" id=\"idb02e7a10-5df9-989b-b8cc-33bc5b3df7c2\" data-type=\"term\">qubits 2</span>",
+        "position": {
+          "x": 684,
+          "y": 108
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>2</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "1d8c1052-5567-91b0-2534-08c82542b657",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "2",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "74a3fa47-e829-5b2a-d352-4544e57782c8",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 627,
+          "y": 189
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "e89fa965-c60c-cc80-562e-1bc853c6a1b0",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2ddf91ac-4b37-deff-8e60-2e2c2c9d1753",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 627,
+          "y": 269.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "b857122e-9399-f4b8-5ea5-959083bbfbc9",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2df2c29c-aad7-06e8-f48e-cb617a5f0e7b",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 627,
+          "y": 425.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "871dc383-8bed-fe9e-db9c-5b0ac7fe6c52",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ca9df883-c912-f10a-64e9-26aea05ec1e6",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 332,
+          "y": 189
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "15dff284-32a9-1439-7640-ba5c3455bbeb",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "5e1a8968-6b2a-86f5-72d1-b0135441b744",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 332,
+          "y": 269.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "da758a24-6d49-5352-48e4-a8a8940887af",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2e3a26f7-ba63-56e4-4dfb-96bd2eb23b2e",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 332,
+          "y": 425.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "185da551-7a4b-34fc-99aa-6e251763c640",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ed98b83b-582d-f351-f967-d730985ecedb",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 530,
+          "y": 189
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "f4ce19f2-d40d-0780-650b-2dec11682cd4",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d66d3423-fc94-ca28-4670-341e2161edee",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 530,
+          "y": 269.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "6fbe84b0-5e57-3939-a965-0d6966cac428",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "f8cedfb3-5be8-c111-3cfc-00064df0432e",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 530,
+          "y": 425.00000000000006
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "e2c210e6-f1cd-29b7-cbf6-e5d6135ce952",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "28736cd5-1067-d976-ec60-8694dabe5489",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>qubits 3</p>",
+        "position": {
+          "x": 199,
+          "y": 183
+        },
+        "size": {
+          "width": 25,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>3</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "f2dbebd1-879e-ff97-995f-fea2d5945c9c",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.132448196411133,
+          "fullString": "3",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "3",
+              "width": 7.4621734619140625,
+              "x": 6.335137367248535,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ff4507ac-f4c1-3524-853a-8e9383415ec1",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<span data-role=\"tag\" data-value=\"207ea978-83a6-176f-8e1a-68e05cf294b6\" id=\"id79995aff-ba31-64a1-05dd-876f353c0630\" data-type=\"term\">qubits 2</span>",
+        "position": {
+          "x": 199,
+          "y": 108
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>2</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "e1121d41-6afe-1d34-8c9c-67fe3fd84cf3",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "2",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "4e6e210b-a94c-69b2-5d22-0f5b770bc430",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"07fb5d3b-5973-fb3c-957b-4d316e29f025\" id=\"ida9bbf390-28dc-50d8-5f01-3b97f2340e43\" data-type=\"term\">qubits 1</span></p>",
+        "position": {
+          "x": 289,
+          "y": 339
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>1</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "89b776f1-ee1f-eee0-f4b4-ad20666d2f59",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "1",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "a83a7b97-c8e9-e2ce-ca75-de6e525a2e38",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"a36e2ce3-d4cc-e8d0-784c-aa2ec21509e7\" id=\"idca661234-5a54-6d4e-d476-545869c75971\" data-type=\"term\">qubits 3 </span></p>",
+        "position": {
+          "x": 290,
+          "y": 492
+        },
+        "size": {
+          "width": 25,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>3</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "71506c71-f814-ea83-3f6c-2672d3dbc551",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.132448196411133,
+          "fullString": "3",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "3",
+              "width": 7.4621734619140625,
+              "x": 6.335137367248535,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d49b06df-cafe-8280-89fc-6aa10ebb60b6",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 188,
+          "y": 464
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "1bfa5161-8aa7-9cef-91a4-8a2f4dace767",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "db235894-7347-00be-c8c5-d78e44880db0",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"07fb5d3b-5973-fb3c-957b-4d316e29f025\" id=\"id65dcc322-8c26-f522-8f1b-3b812d131e76\" data-type=\"term\">qubits 1</span></p>",
+        "position": {
+          "x": 492,
+          "y": 183
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>1</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "34d573f2-de21-6a9c-0c39-f5ba21142a92",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "1",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "c8113392-4e38-b3b4-846b-8573985c0a04",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<span data-role=\"tag\" data-value=\"207ea978-83a6-176f-8e1a-68e05cf294b6\" id=\"idcd339b94-0fc5-413b-82f8-b209dc5dfa41\" data-type=\"term\">qubits 2</span>",
+        "position": {
+          "x": 492,
+          "y": 259
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>2</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "5168f0a1-117b-b3ee-84d7-49874e5b9a9f",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "2",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "f22a56ae-8295-0275-c35f-3b9d62bb0628",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 427,
+          "y": 350
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "f30bb2b4-c350-38f5-d5c5-3d4b54560115",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "aa52f078-8aa8-aba3-999a-3c93a8ec2d5a",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"83bc4c9f-13d6-65f9-2bc0-d489ce50e751\" id=\"id0d2ca67f-741c-a01c-8bf5-ace88f1a64c2\" data-type=\"term\">qubits 4</span></p>",
+        "position": {
+          "x": 492,
+          "y": 415
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>4</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "b804a1ca-19d9-8c18-52c9-c0fb3c25c3a9",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "4",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "4",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "b4183755-383f-3194-407e-1d922414cfda",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 427,
+          "y": 503
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "c8d779bd-a696-f991-2aa5-c4d4ea7f7866",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "65b5602e-d8d8-1d39-c0e1-08b9e6165bc4",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"a36e2ce3-d4cc-e8d0-784c-aa2ec21509e7\" id=\"id6722ce8a-1c7c-49a0-aeed-3c5454e12cb2\" data-type=\"term\">qubits 3 </span></p>",
+        "position": {
+          "x": 684,
+          "y": 184
+        },
+        "size": {
+          "width": 25,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>3</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "9fecf697-fe95-71f4-6ba2-377cba1a1f3a",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.132448196411133,
+          "fullString": "3",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "3",
+              "width": 7.4621734619140625,
+              "x": 6.335137367248535,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "376e3fe8-7aa5-6eac-ce30-6da745732393",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"83bc4c9f-13d6-65f9-2bc0-d489ce50e751\" id=\"id3e8533c3-8a29-24ad-badf-1b3c76302033\" data-type=\"term\">qubits 4</span></p>",
+        "position": {
+          "x": 684,
+          "y": 260
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>4</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "9266b066-1472-b1dd-43a2-06da2a729b05",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "4",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "4",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "85d1a33c-c464-83ae-0b3c-ff0cf7dbc124",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 627,
+          "y": 351
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "bc0ea51b-b752-cf5a-d999-0548b2b8a8a0",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "25ab5517-74d5-93e0-3ab1-3f4ca975cda4",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"07fb5d3b-5973-fb3c-957b-4d316e29f025\" id=\"idf140fd04-4096-8245-5959-61226d0ef2e8\" data-type=\"term\">qubits 1</span></p>",
+        "position": {
+          "x": 684,
+          "y": 416
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>1</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "a1163684-ec25-e9c0-90fb-4d9d94fc38ac",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "1",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ec992cf9-b93f-8b09-a915-c064f8666448",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 627,
+          "y": 504
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "0c3b2196-8f5a-fdcb-53c6-cd2f919bcc1b",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "7afd4b5f-07ae-2d55-9408-0586c49990ee",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 332,
+          "y": 351
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "f63fbc52-d946-4e83-0e46-e6ffd3f59baa",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "58381b3e-cad9-def3-f127-9cee147ad7c6",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 332,
+          "y": 504
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "8b2430f9-bd95-f863-6242-d22ffceecc7f",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "81d4e849-580b-990b-419b-ddbc222c6a78",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 530,
+          "y": 351
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "ef4cc7ba-0fcb-1729-f7d9-c19451c62420",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "cbfea0f9-18b5-5f85-53e6-421561cf5d4f",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 530,
+          "y": 504
+        },
+        "size": {
+          "width": 51,
+          "height": 6
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "ba9bd4f1-9989-64d9-3e3c-2ac9dc2b5593",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 153.37643432617188,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 76.68821716308594,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2691c5d3-3df3-3b02-2d84-c2c36831b524",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>qubits 5</p>",
+        "position": {
+          "x": 199,
+          "y": 338
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>5</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "c632f26d-a38e-f6af-f19f-cf6a18894098",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "5",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "5",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "6069a387-f77b-75f5-8b84-558c5133c30f",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"83bc4c9f-13d6-65f9-2bc0-d489ce50e751\" id=\"id2ebf930a-dc09-06b4-6956-dc252a6e16f6\" data-type=\"term\">qubits 4</span></p>",
+        "position": {
+          "x": 199,
+          "y": 260
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>4</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "6171e544-45d9-68de-a42a-e23740c2a2a4",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "4",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "4",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "59a986eb-bfc3-3192-969e-6d77eb8a985e",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<span data-role=\"tag\" data-value=\"207ea978-83a6-176f-8e1a-68e05cf294b6\" id=\"id896626f6-5f5e-b41b-8ad2-f0bd7f0347c8\" data-type=\"term\">qubits 2</span>",
+        "position": {
+          "x": 200,
+          "y": 491
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>2</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "c42c5c3f-9d61-e637-2b78-43bfcf199a43",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "2",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "35777d51-8951-ac31-23b6-6e8c906fa7bd",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"07fb5d3b-5973-fb3c-957b-4d316e29f025\" id=\"id9d6b82c4-3a2d-012b-09b5-756acba52073\" data-type=\"term\">qubits 1</span></p><p>&nbsp;</p>",
+        "position": {
+          "x": 199,
+          "y": 416
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>1</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "28281df1-57c4-a2c9-8fd3-01a1d327c943",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "1",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d1b64728-9d8e-e7e3-bb29-4675333fdf76",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 189,
+          "y": 230
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "8fc5be98-9f45-5c11-01b4-7401e218909e",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "836c6cb7-3128-528e-e5ef-a55664479778",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 277,
+          "y": 467
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "d8892baf-08ab-669b-b8ab-ed122613544b",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "18b73c93-bd25-fc22-c456-f5b5de5e08e1",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"f3a0cac9-3117-103d-6d11-6a8c4d0e372e\" id=\"id63405b10-9203-bae8-4a4d-6616fdb8b48a\" data-type=\"term\">qubits 5</span></p>",
+        "position": {
+          "x": 393,
+          "y": 182
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>5</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "0602ae7f-cf2f-82bd-8cb0-15acf83ba2ba",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "5",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "5",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ce6b08ab-9b11-fe0b-a3a1-98329325a1b2",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"83bc4c9f-13d6-65f9-2bc0-d489ce50e751\" id=\"id97eff5eb-e0fb-a6f3-4e44-0a3fb06cb199\" data-type=\"term\">qubits 4</span></p>",
+        "position": {
+          "x": 393,
+          "y": 107
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>4</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "1b9b4327-73f4-b1cb-d8ee-64282be21e51",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "4",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "4",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "a25068d9-fde8-4d7e-7052-f44cb3f84825",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"a36e2ce3-d4cc-e8d0-784c-aa2ec21509e7\" id=\"idb0dac2bd-d759-fd70-fbbf-a1853ed80e90\" data-type=\"term\">qubits 3 </span></p>",
+        "position": {
+          "x": 492,
+          "y": 338
+        },
+        "size": {
+          "width": 25,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>3</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "e5749c03-1041-9683-13c8-51f1dfb1935f",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.132448196411133,
+          "fullString": "3",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "3",
+              "width": 7.4621734619140625,
+              "x": 6.335137367248535,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d2cbeb19-05a0-756a-395a-c7e447deec80",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"f3a0cac9-3117-103d-6d11-6a8c4d0e372e\" id=\"id005b496d-bdab-5fe4-d222-9367326ed565\" data-type=\"term\">qubits 5</span></p>",
+        "position": {
+          "x": 493,
+          "y": 491
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>5</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "4fb6e4a2-2ff0-bbb0-a0f5-a53353e049c7",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "5",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "5",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "5fe90c8d-2c42-8e6b-db53-369b170eba4d",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 382,
+          "y": 463
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "b976991d-b37f-859c-5d56-1bce7930076f",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "33de89cd-69a8-cb96-3232-fc3f3892cb01",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<span data-role=\"tag\" data-value=\"207ea978-83a6-176f-8e1a-68e05cf294b6\" id=\"id2b0233ae-b0cf-c303-8d63-1a57449c5019\" data-type=\"term\">qubits 2</span>",
+        "position": {
+          "x": 594,
+          "y": 183
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>2</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "1fd9d2ac-e1dd-ba46-d492-f9fa993909e3",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "2",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "05fcc0a7-8bc0-607f-b4be-ebf171c81102",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"07fb5d3b-5973-fb3c-957b-4d316e29f025\" id=\"idf07404ab-3f39-6d90-325f-9bcd081c4557\" data-type=\"term\">qubits 1</span></p>",
+        "position": {
+          "x": 594,
+          "y": 108
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>1</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "7e53fe28-c0ef-c76f-d1be-f072a222ed0a",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "1",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "291df061-efc2-b699-8af2-b2e803b2fc28",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"f3a0cac9-3117-103d-6d11-6a8c4d0e372e\" id=\"id722098a3-acae-9e78-0aca-9527d2446543\" data-type=\"term\">qubits 5</span></p>",
+        "position": {
+          "x": 684,
+          "y": 339
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>5</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "5fc8e252-d1ce-b551-8c09-94485d3041fa",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "5",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "5",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ce309fed-8893-d4e6-9b69-ffeb69c8f8a3",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<span data-role=\"tag\" data-value=\"207ea978-83a6-176f-8e1a-68e05cf294b6\" id=\"id952cd720-9fc1-ed1c-6818-6729159dad1a\" data-type=\"term\">qubits 2</span>",
+        "position": {
+          "x": 685,
+          "y": 492
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>2</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "e95479a4-9afb-1c5c-8cb7-028a21e62304",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "2",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "8ea07224-303c-02f9-73c4-10cf1340a1d6",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 583,
+          "y": 464
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "211e3020-674e-4027-beeb-bb6d2bd5e8fe",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "c345ad84-d731-f0d3-9e5e-aad9fb562fae",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 190,
+          "y": 308
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "653b5d61-6a92-db93-12df-78b4b7a51f70",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "bccd7935-5ceb-f139-1e5a-87e67766552c",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 278,
+          "y": 233
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "9ccbf9c7-fb68-c2b9-541a-9004096305b6",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d95310cf-83a7-5fe3-08c1-da8034e417ad",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<span data-role=\"tag\" data-value=\"207ea978-83a6-176f-8e1a-68e05cf294b6\" id=\"id204d952e-3d44-d452-12b2-a6b4cffa660d\" data-type=\"term\">qubits 2</span>",
+        "position": {
+          "x": 393,
+          "y": 337
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>2</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "5a95dd98-04ee-939b-de45-76826dcb146a",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "2",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "66bf1066-d6df-0520-da48-7b059017ad97",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"07fb5d3b-5973-fb3c-957b-4d316e29f025\" id=\"id17afef55-6e8c-7a12-c247-3500ab292b4a\" data-type=\"term\">qubits 1</span></p>",
+        "position": {
+          "x": 393,
+          "y": 259
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>1</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "26cbc5ce-f75e-db8e-a6b3-1ec86418e278",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "1",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "1b17cc72-4144-8178-4ac2-6c575e805b8f",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"83bc4c9f-13d6-65f9-2bc0-d489ce50e751\" id=\"idda585775-3e87-1dcb-23b7-3570c7a2ce1c\" data-type=\"term\">qubits 4</span></p>",
+        "position": {
+          "x": 394,
+          "y": 490
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>4</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "b4a2a3c3-f70c-ae5d-ebac-bcbe0ebcd1e6",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "4",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "4",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "30d8408a-b408-2683-e066-e06292b053a6",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"a36e2ce3-d4cc-e8d0-784c-aa2ec21509e7\" id=\"id0f54ec55-4a09-23ce-e29a-299cd71e6311\" data-type=\"term\">qubits 3 </span></p>",
+        "position": {
+          "x": 393,
+          "y": 415
+        },
+        "size": {
+          "width": 25,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>3</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "0596e2f4-3cac-0dfe-3bd5-20357b89e74f",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 20.132448196411133,
+          "fullString": "3",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "3",
+              "width": 7.4621734619140625,
+              "x": 6.335137367248535,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "c357a059-6b4d-98f5-b9fc-4e284b4208aa",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 383,
+          "y": 229
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "503f088f-4d25-69d6-531f-1ca7fbe73e4b",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "25fd31a4-c4a6-777c-1d6e-b3749d338c4c",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 480,
+          "y": 466
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "8bfb7d4a-f683-a24d-a8b0-1b39b2e0f237",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "29e9e664-a6c6-9faa-d719-e8e0e3b75e3f",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"83bc4c9f-13d6-65f9-2bc0-d489ce50e751\" id=\"idd410fbdd-5b6a-6245-6bc3-72d4ea79e2dc\" data-type=\"term\">qubits 4</span></p>",
+        "position": {
+          "x": 594,
+          "y": 338
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>4</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "e0dfdf8d-7389-c73c-79ce-45f602b6039a",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "4",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "4",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0187f796-e54a-f3fa-5fb9-9d22b30a6801",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"a36e2ce3-d4cc-e8d0-784c-aa2ec21509e7\" id=\"id51973023-01a2-035b-a88d-25d45743de4b\" data-type=\"term\">qubits 3 </span></p>",
+        "position": {
+          "x": 594,
+          "y": 260
+        },
+        "size": {
+          "width": 25,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>3</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "c7b66d7e-8275-a6c3-4de5-e02e97b1e852",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 20.132448196411133,
+          "fullString": "3",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "3",
+              "width": 7.4621734619140625,
+              "x": 6.335137367248535,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "02829f26-5243-2802-8bef-3a025b7af34e",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"07fb5d3b-5973-fb3c-957b-4d316e29f025\" id=\"id6b0b32cb-232d-f60d-57b3-226f5d4c4174\" data-type=\"term\">qubits 1</span></p>",
+        "position": {
+          "x": 595,
+          "y": 491
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>1</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "04b6dace-c7e1-77c4-98bf-29a7c7195f54",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "1",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "e6c7c18f-b1fb-b7c8-46d3-25e1497d1d8e",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"f3a0cac9-3117-103d-6d11-6a8c4d0e372e\" id=\"id3ee558b7-0845-2a1f-3748-9c2e5cb6e4ab\" data-type=\"term\">qubits 5</span></p>",
+        "position": {
+          "x": 594,
+          "y": 416
+        },
+        "size": {
+          "width": 26,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>5</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "4ad36be2-4837-cb81-b6ee-62053197c284",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 20.937746047973633,
+          "fullString": "5",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "5",
+              "width": 7.4621734619140625,
+              "x": 6.737786293029785,
+              "y": -4.11439577178955
+            }
+          ],
+          "textWidth": 7.4621734619140625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "6411f88b-3051-58a6-5274-26f95e6f6f1c",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 584,
+          "y": 230
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "b8a36d02-8d45-ae25-f1c3-9cbddc9031b6",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "5b2eec66-754d-1804-ac37-d532a98b2412",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 672,
+          "y": 467
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "dbc3c47b-9092-d2e8-5c52-a2b2271c5048",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "c9730241-15d1-2b1d-738d-cff7677aba10",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 189,
+          "y": 386
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "f65f3167-de1a-9f87-2ad4-bffd9122688b",
+        "z": 23,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "35bd4637-f0d3-875f-da86-3af48d8d1701",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 279,
+          "y": 311
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "6ba62dc5-eda0-c897-c17a-decf805f179d",
+        "z": 23,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "59fad5d8-d5e3-81b8-61f7-99f061e19d2c",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 384,
+          "y": 307
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "3c88ac02-d08b-67a3-44c0-5d59304c7e13",
+        "z": 23,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "1d133d43-8d26-2132-0f2c-944b5f765487",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 481,
+          "y": 232
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "2fa1c4b4-3784-d705-3318-9e707e6599cc",
+        "z": 23,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d67c39ce-2fdc-13f9-39f2-4a2b9317822d",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 585,
+          "y": 308
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "c046afdc-e9da-6fcd-2f05-ea5382e9c60e",
+        "z": 23,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "621745ff-2cc6-bb61-c4a3-a78c6f1d5629",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 673,
+          "y": 233
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "3b9bde89-d231-f521-f2ae-3afbac744643",
+        "z": 23,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ce1d921c-2c71-3b3e-1a59-aacb75fd84b5",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 189,
+          "y": 153
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "ad84142b-80ab-138d-a31d-82bc58baee96",
+        "z": 24,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "b925e78c-2a1a-6e51-3d25-b30b7599b540",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 278,
+          "y": 389
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "088890e2-fa9f-ba39-6eab-68d72af76c2d",
+        "z": 24,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "649a7920-5f2d-7e94-990f-673560eee779",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 383,
+          "y": 385
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "c9776270-12bd-6921-694c-f98e85ffebe9",
+        "z": 24,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "4ccadb61-4080-ba58-cf3f-f3fc289c282c",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 482,
+          "y": 310
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "78e06cb7-2dd9-b683-a97c-361f5fab6152",
+        "z": 24,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "7a189b37-23a9-4a7d-f2f1-909a94607d0e",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 584,
+          "y": 386
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "3ea13a4c-178f-4cd2-c0fd-51ac176692e7",
+        "z": 24,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2aad7e87-fef9-074f-146c-2a7abb9fc89f",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 674,
+          "y": 311
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "cbb5aa4d-15b9-73d3-c61a-26174bc8c080",
+        "z": 24,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "a6b9a5a7-1e15-737a-7e48-ad299e15b9bc",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 278,
+          "y": 156
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "b959783c-a436-6f20-0022-cf2da78f52ef",
+        "z": 25,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0af387a3-8a28-80cb-3c04-65eb41a29e49",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 383,
+          "y": 152
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "9bcabfa9-f33c-cb41-412d-0f35b61c279d",
+        "z": 25,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "45ac924c-7a39-baa5-b55a-43f028ce989e",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 481,
+          "y": 388
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "3b355831-fe26-8dba-8afe-0540d1211ac9",
+        "z": 25,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "1c6581a1-3830-8784-5d45-7266ee0d9ba4",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 584,
+          "y": 153
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "24a1d9f4-87fd-8486-5cf3-2a861300ccd9",
+        "z": 25,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9a9f66d1-2013-0f3a-ac67-27723196e0d3",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 673,
+          "y": 389
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "c56e667e-b35a-2f36-1de8-c4809942b2e2",
+        "z": 25,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "29d27301-b7ae-5039-0c43-3675fc271de9",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 481,
+          "y": 155
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "c0c70559-d921-dc33-bb2e-ec34a2fc7f6d",
+        "z": 26,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2c7aa2ff-238a-c70e-530b-d3b05e68ce60",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 673,
+          "y": 156
+        },
+        "size": {
+          "width": 46,
+          "height": 6
+        },
+        "angle": 270,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position7",
+        "arrowheads": "neither",
+        "id": "e5a3faed-dd4f-ba7a-ac4b-f8087dbacae2",
+        "z": 26,
+        "labelLayout": {
+          "labelBoxWidth": 18.52928352355957,
+          "fullString": " ",
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.264641761779785,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "1816ce66-d2dc-7e66-c47e-dd42b30754d3",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 758,
+          "y": 4
+        },
+        "size": {
+          "width": 76,
+          "height": 26
+        },
+        "angle": 0,
+        "label": "<p>TL1</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "51b94983-2af6-4d74-979e-4729bf3714ba",
+        "z": 27,
+        "labelLayout": {
+          "labelBoxWidth": 69.3571548461914,
+          "fullString": "TL1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "TL1",
+              "width": 20.418472290039062,
+              "x": 24.469341278076172,
+              "y": 1.314314212036134
+            }
+          ],
+          "textWidth": 20.418472290039062,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "89636522-b188-7851-0ef4-eabf86d5b33d"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"5133864b-bc9d-3429-57ec-d8754e7aa154\" id=\"idc50742e9-e794-ef29-57fe-5cf352c0f712\" data-type=\"term\">connection</span></p>",
+        "position": {
+          "x": 834,
+          "y": 421
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "leadLinePosition": "position1",
+        "arrowheads": "neither",
+        "id": "e16beae8-2c8b-40f7-bf89-67388c2c8064",
+        "z": 28,
+        "objectID": "2f662f4d-b477-2975-27f2-78607c84fffc",
+        "number": 8,
+        "showLeadLine": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 758,
+          "y": 63
+        },
+        "size": {
+          "width": 76,
+          "height": 24.207883840672586
+        },
+        "angle": 0,
+        "label": "<p>TL2</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "42c070f6-6502-e589-aadd-45431582b9c1",
+        "z": 28,
+        "labelLayout": {
+          "labelBoxWidth": 69.3571548461914,
+          "fullString": "TL2",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "TL2",
+              "width": 20.418472290039062,
+              "x": 24.469341278076172,
+              "y": 0.49998125000000115
+            }
+          ],
+          "textWidth": 20.418472290039062,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "4b2eb75c-b9ac-b7a6-4455-b76bffa7011f"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 758,
+          "y": 311
+        },
+        "size": {
+          "width": 76,
+          "height": 24.207883840672586
+        },
+        "angle": 0,
+        "label": "<p>TL5</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "4704c5bf-af6c-fbbb-aa99-e793b6fadb4d",
+        "z": 28,
+        "labelLayout": {
+          "labelBoxWidth": 69.3571548461914,
+          "fullString": "TL5",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "TL5",
+              "width": 20.418472290039062,
+              "x": 24.469341278076172,
+              "y": 0.49998125000000115
+            }
+          ],
+          "textWidth": 20.418472290039062,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "8cb3a0d0-3efa-12da-73cc-14d89598b12a"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 759,
+          "y": 380
+        },
+        "size": {
+          "width": 76,
+          "height": 24.207883840672586
+        },
+        "angle": 0,
+        "label": "<p>TL'1</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "8163066e-9df9-1a86-0c2b-d28b0a4564e6",
+        "z": 28,
+        "labelLayout": {
+          "labelBoxWidth": 69.3571548461914,
+          "fullString": "TL'1",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "TL'1",
+              "width": 22.468505859375,
+              "x": 23.444324493408203,
+              "y": 0.49998125000000115
+            }
+          ],
+          "textWidth": 22.468505859375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "98b0740d-6b09-1190-6633-b04733a67ede"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 758,
+          "y": 145
+        },
+        "size": {
+          "width": 76,
+          "height": 24.207883840672586
+        },
+        "angle": 0,
+        "label": "<p>TL3</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "78a43ba7-f306-1dca-353d-173bb4947085",
+        "z": 29,
+        "labelLayout": {
+          "labelBoxWidth": 69.3571548461914,
+          "fullString": "TL3",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "TL3",
+              "width": 20.418472290039062,
+              "x": 24.469341278076172,
+              "y": 0.49998125000000115
+            }
+          ],
+          "textWidth": 20.418472290039062,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "511dc2c3-7af2-f886-5e9c-f7ca70ed0078"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 757,
+          "y": 233
+        },
+        "size": {
+          "width": 76,
+          "height": 24.207883840672586
+        },
+        "angle": 0,
+        "label": "<p>TL4</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "565d264c-c931-7d6a-6a72-22579ca7917c",
+        "z": 29,
+        "labelLayout": {
+          "labelBoxWidth": 69.3571548461914,
+          "fullString": "TL4",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "TL4",
+              "width": 20.418472290039062,
+              "x": 24.469341278076172,
+              "y": 0.49998125000000115
+            }
+          ],
+          "textWidth": 20.418472290039062,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "44b42a4a-ffc2-65a2-02b9-4460eb22a4da"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "none",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 73,
+          "y": 534
+        },
+        "target": {
+          "x": 718,
+          "y": 37
+        },
+        "id": "5403356d-13a1-49af-891c-47e7bf6de6be",
+        "embeds": "",
+        "z": 29,
+        "routing": "straight",
+        "objectID": "b0c9c834-4d03-03b3-2a87-76807687fa02",
+        "labelPosition": "internal",
+        "labelVAlign": "center",
+        "vertices": [],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "none",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 103,
+          "y": 584
+        },
+        "target": {
+          "x": 733,
+          "y": 97
+        },
+        "id": "64f28410-8a61-4f49-9e6f-d66fea093aa9",
+        "embeds": "",
+        "z": 31,
+        "routing": "straight",
+        "objectID": "5d8c45a5-44dd-0096-e8d1-83b1a42d9100",
+        "labelPosition": "internal",
+        "labelVAlign": "center",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "none",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 191,
+          "y": 597
+        },
+        "target": {
+          "x": 761,
+          "y": 149
+        },
+        "id": "de0ba5b8-f410-43b3-bf1a-e5e5a0b8024f",
+        "embeds": "",
+        "z": 33,
+        "routing": "straight",
+        "objectID": "c41f019f-6f44-8179-2244-121775e23a0a",
+        "labelPosition": "internal",
+        "labelVAlign": "center",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "none",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 282,
+          "y": 605
+        },
+        "target": {
+          "x": 760,
+          "y": 227
+        },
+        "id": "8cb69aec-ada7-4984-8f1b-d117d42c8aa5",
+        "embeds": "",
+        "z": 36,
+        "routing": "straight",
+        "objectID": "b4a1019f-0b08-097d-734f-e2398157b43f",
+        "labelPosition": "internal",
+        "labelVAlign": "center",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "none",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 412,
+          "y": 580
+        },
+        "target": {
+          "x": 760,
+          "y": 302
+        },
+        "id": "838d8777-ca8e-4597-87f5-13aa6227c92f",
+        "embeds": "",
+        "z": 37,
+        "routing": "straight",
+        "objectID": "642059fd-facc-d53a-2e5a-b0d8c28c82e2",
+        "labelPosition": "internal",
+        "labelVAlign": "center",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "none",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 538,
+          "y": 569
+        },
+        "target": {
+          "x": 768,
+          "y": 371
+        },
+        "id": "4c9c64d1-5d3e-4c4e-aad6-271e6995daae",
+        "embeds": "",
+        "z": 38,
+        "routing": "straight",
+        "objectID": "1fe103c3-d026-917b-9e8c-14059a2f3c88",
+        "labelPosition": "internal",
+        "labelVAlign": "center",
+        "label": " ",
+        "name": " "
+      }
+    ]
+  }
+}
